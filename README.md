@@ -1,0 +1,2 @@
+# 10animal_classification
+訓練一個模型用於辨識十種不同動物，使用公共資料集animal10
